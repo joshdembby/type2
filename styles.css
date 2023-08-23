@@ -1,0 +1,36 @@
+.form{
+    width: 250px;
+    height: 300px;
+    border-radius: 4px;
+    border-width: 2px;
+    border-color: blue;
+    background-color: #ff7200 ;
+    padding: 20px ;
+    padding-right: 80px;
+}
+.form h1{
+  font-family: 'Lucida Sans Unicode';
+  font-size: 30px;
+  margin-top: -10px;
+}
+.form input{
+    width: 280px;
+    height: 40px;
+    margin-bottom: 10px;
+    border: 0;
+    background: transparent;
+    border-bottom: 1px solid #2fff00;
+    border-right: none;
+    border-left:none ;
+    font-size: 15px;
+    font-family: 'Gill Sans';
+    letter-spacing: 2px;
+}
+.form button{
+   padding: 10px;
+   background-color: rgb(255, 0, 200);
+   color: white;
+   margin-top: 20px;
+   border: none;
+   border-radius: 10px;
+}
